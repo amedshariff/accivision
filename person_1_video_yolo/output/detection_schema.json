@@ -1,0 +1,14 @@
+{
+  "required": [
+    "frame",
+    "timestamp_sec",
+    "class",
+    "x1",
+    "y1",
+    "x2",
+    "y2",
+    "confidence"
+  ],
+  "bbox_format": "x1,y1,x2,y2",
+  "coordinate_system": "pixel"
+}
